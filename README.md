@@ -1,9 +1,9 @@
 ### Namaste 🙏
 
 - 🔭 I’m currently working at [KimbuTech Pvt. Ltd.](https://kimbutech.com/)
-- 🌱 I’m currently learning Django Rest Framwork
-- 👯 I’m looking to collaborate on Flutter
-- 🤔 I’m looking for help with Flutter
+- 🌱 I’m currently learning Django Rest Framework, Nuxt, and Flutter
+- 👯 I’m looking to collaborate on all things mentioned above
+- 🤔 I’m looking for help with all the things mentioned above
 - 💬 Ask me about anything on Software Development
 - 📫 How to reach me: Twitter - [@paurakhsharma](https://www.twitter.com/paurakhsharma), Instagram - [@paurakh_sharma](https://www.instagram.com/paurakh_sharma/)
 - ⚡ Fun fact: I like keeping earphones in my ears even when I am not listening to anything.

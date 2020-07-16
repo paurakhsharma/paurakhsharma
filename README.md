@@ -1,6 +1,6 @@
 ### Namaste 🙏
 
-- 🔭 I’m currently working at [KimbuTech Pvt. Ltd](https://kimbutech.com/)
+- 🔭 I’m currently working at [KimbuTech Pvt. Ltd.](https://kimbutech.com/)
 - 🌱 I’m currently learning Django Rest Framwork
 - 👯 I’m looking to collaborate on Flutter
 - 🤔 I’m looking for help with Flutter

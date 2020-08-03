@@ -1,6 +1,6 @@
 ### Namaste 🙏
 
-- 🔭 I’m currently working at KimbuTech Pvt. Ltd.
+- 🔭 I’m currently working at [Onesheep](https://onesheep.org/)
 - 🌱 I’m currently learning Django Rest Framework, Nuxt, and Flutter
 - 👯 I’m looking to collaborate on all things mentioned above
 - 🤔 I’m looking for help with all the things mentioned above

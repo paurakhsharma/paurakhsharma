@@ -1,4 +1,4 @@
-### Namaste 🙏
+### Namaskar 🙏
 
 - 🔭 I’m currently working at [Onesheep](https://onesheep.org/)
 - 🌱 I’m currently learning Django Rest Framework, Nuxt, and Flutter

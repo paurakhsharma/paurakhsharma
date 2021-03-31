@@ -1,10 +1,8 @@
 ### Namaskar 🙏
 
 - 🔭 I’m currently working at [Onesheep](https://onesheep.org/)
-- 🌱 I’m currently learning Django Rest Framework, Nuxt, and Flutter
-- 👯 I’m looking to collaborate on all things mentioned above
-- 🤔 I’m looking for help with all the things mentioned above
-- 💬 Ask me about anything on Software Development
+- 🌱 I’m currently learning Adonis.js, and Flutter
+- I occasionally write technical stuffs @ [dev.to](https://dev.to/paurakhsharma)
 - 📫 How to reach me: Twitter - [@paurakhsharma](https://www.twitter.com/paurakhsharma), Instagram - [@paurakh_sharma](https://www.instagram.com/paurakh_sharma/)
 - ⚡ Fun fact: I like keeping earphones in my ears even when I am not listening to anything.
 
